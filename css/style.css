@@ -1,0 +1,172 @@
+
+#header-section{
+	background: #87509c;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    }
+
+    .navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 0px solid transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #F6F0F0;
+    }
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+color: #F8EAEA;
+background-color: #643a79;
+}
+
+.navbar-brand {
+float: left;
+height: 50px;
+padding: 5px 15px;
+font-size: 18px;
+line-height: 20px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    color: #FCF3F3;
+    background-color: #643a79;
+}
+
+.carousel-inner {
+position: relative;
+width: 100%;
+overflow: hidden;
+padding-top: 15em;
+}
+
+
+#service-section{
+	background: #17c2a4;
+	color: #fff;
+	padding: 50px;
+}
+
+#service-section img{
+	margin: 0 auto;
+	padding-top: 40px;
+	height: 120px;
+}
+
+.header p{
+	max-width: 400px;
+	margin: 10px auto;
+
+}
+#team-section{
+	background: #e7f1f8;
+	padding: 40px 0;
+}
+
+#team-section{
+	color: #3c4761;
+}
+#team-section img{
+	padding-top: 40px;
+}
+
+#team-section span{
+	color: #48c1e9;
+}
+
+#skill-section{
+	background: #fef7f7;
+	padding: 40px 0;
+}
+#skill-section img{
+	padding-top: 60px;
+	margin: 10px auto;
+}
+
+.skill{
+	position: relative;
+}
+
+.skill span {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-45%,-50%);
+    font-size: 35px;
+}
+
+#portfolio-section{
+	background: #ffdd99;
+	padding: 4em;
+}
+
+.btn-custom {
+    background: #D8D880;
+    color: #F6EDED;
+    padding: 5px 10px;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+.gallery{
+margin: 30px;
+}
+
+.load{
+	background: #17c2a4;
+	box-shadow: 0 4px 0 #D7E057;
+}
+
+.load:focus{
+	
+	box-shadow: 0 4px 0 transparent;
+}
+
+#testimonial-section{
+	background: #d74680;
+	color: #fff;
+	padding: 40px 0px;
+}
+
+.border{
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+#testimonial>header>p{
+	max-width: 400px;
+	margin-bottom: 20px;
+}
+
+.get-in{
+	margin: 30px auto;
+	float: none;
+}
+
+#contact-section{
+	background: #3c5499;
+	padding: 30px;
+}
+
+.btn-primary {
+    color: #FFF;
+    background-color: #30bae7;
+    border-color: #2E6DA4;}
+
+    #footer-section{
+    	background: #344b8e;
+    	color: #fff;
+    }
+
+#footer-section ul {
+    padding: 15px 5px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+a {
+    color: #E3E8ED;
+    text-decoration: none;
